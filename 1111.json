@@ -2,7 +2,7 @@
   "activity": {
     "tip": "点击开始任务自动运行\n联系汉堡：绿泡泡 Addi1223\n",
     "mapping": {
-      "❤️开始1111任务❤️": {
+      "开始任务": {
         "type": "task",
         "key": [
           "赚话费"
@@ -14,7 +14,7 @@
     },
     "vvv": 1,
     "list": [
-      "❤️开始1111任务❤️",
+      "开始任务",
       "联系汉堡｜绿泡泡 Addi1223"
     ],
     "taskList": [
@@ -34,7 +34,7 @@
         "before": [],
         "wait": 15,
         "tag": "zhuanhuafei",
-        "baseurl": "://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=占位参数1&sceneId=8917&q=iphone",
+        "baseurl": "://s.m.taobao.com/h5?ut_sk=1.al5fl06PsTgDACb%2BqFXotCTe_21380790_1793155473392.Copy.shoutaosearch&deliveryId=占位参数1&g_signChannelSig=9deb054481abf1112262e60196f157b3598fecbe&g_historyOn=true&sceneId=8917&g_qiandaoNewCard=true&awardIndex=1&g_channelSrp=hbrwad&g_jhyReBangOn=false&xsearchFromSearchDoor=true&channelSrp=hbrwad&g_jhyOn=true&hd_from_id=100260q=vivo",
         "param": {
           "商品定位": [
             "nike",
@@ -83,27 +83,27 @@
           "107016",
           "107016",
           "107016",
-          "100531",
+          "100454",
+          "100454",
+          "100454",
+          "100454",
+          "100454",
+          "106513",
+          "106513",
+          "106513",
+          "106513",
+          "106513",
           "99673",
+          "106369",
           "106363",
           "99889",
-          "106588",
-          "101866",
+          "107860",
+          "106370",
           "107544",
+          "107953",
+          "101866",
           "99672",
-          "100454",
-          "100454",
-          "100454",
-          "100454",
-          "100454",
-          "106513",
-          "106513",
-          "106513",
-          "106513",
-          "106513",
-          "106595",
-          "99720",
-          "90782"
+          "99720"
         ],
         "type": "task1",
         "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com"
